@@ -1,0 +1,17 @@
+.test {
+  font-size: 20px;
+}
+
+.cookies,
+.token,
+.proxy,
+.user-agent,
+.password {
+  font-size: 20px;
+}
+
+.full-info {
+  width: 1600px;
+  height: 600px;
+  font-size: 20px;
+}
